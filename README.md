@@ -1,4 +1,4 @@
-# Git Commands
+# Git Commands Collection
 
 ```bash
 # Create a git Repo
