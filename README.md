@@ -31,4 +31,7 @@ git push
 
 # pull new code to local from remote.
 git pull
+
+# merge some other branch to current branch
+git merge name_of_that_branch_to_be_merge_to_this_branch
 ```
